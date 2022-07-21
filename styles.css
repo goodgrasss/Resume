@@ -1,10 +1,33 @@
   body {
-    background-color: powderblue;
+    background-color: #6E85B7;
 
   }
 
+  h1{
+    color: #FEB139;
+  }
+  h2{
+    color: #FEB139;
+  }
+  h3{
+    color: #FEB139;
+  }
+  p{
+    color: #F1EEE9;
+  }
+  li{
+    color: #F1EEE9;
+  }
+  table{
+    color: #F1EEE9;
+  }
+  label{
+    color: #F1EEE9;
+  }
+
+
   hr {
-    background-color: powderblue;
+    background-color: #6E85B7;
     border-style: none;
     border-top: dotted;
     height: 0px;
